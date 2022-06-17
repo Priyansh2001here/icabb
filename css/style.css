@@ -47,6 +47,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     font-family: sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
@@ -11084,7 +11085,7 @@ h5,
 }
 
 .hero-wrap.hero-wrap-2 {
-    height: 400px;
+    height: 70vh;
 }
 
 .hero-wrap.hero-wrap-2 .overlay {
@@ -12260,7 +12261,7 @@ textarea.form-control {
 }
 
 .heading-section .subheading {
-    font-size: 12px;
+    font-size: 15px;
     display: block;
     font-weight: 600;
     color: #c5cf31;
@@ -13186,4 +13187,10 @@ textarea.form-control {
 .l-bg-cyan {
     background: linear-gradient(135deg, #289cf5, #84c0ec) !important;
     color: #fff;
+}
+
+.navbar-logo
+{
+    width: 10vh;
+    height: 10vh;
 }
