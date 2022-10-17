@@ -79,10 +79,11 @@ body {
 }
 
 .button3 {
-	display: block;
+	
+  text-align: center;
   width: 320px;
   max-width: 100%;
-  margin: 0 auto;
+  margin: 500px;
   margin-bottom: 0;
   overflow: hidden;
   position: relative;
@@ -95,7 +96,7 @@ body {
 }
 
 .instagram1 {
-	text-align: center;
+	text-align: right;
 	border-radius: 50px;
   padding: 26px;
   color: white;
