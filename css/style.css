@@ -13195,3 +13195,7 @@ textarea.form-control {
     width: 10vh;
     height: 10vh;
 }
+
+.theme-cards{
+    min-height: 60vh !important;
+}
